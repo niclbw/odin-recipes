@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.recipe-title {
+    font-size: 24px;
+    text-align: center;
+}
+
+.homepage-content,
+.recipe-content {
+    font-size: 20px
+}
+
+.homepage-content {
+    background-color: white;
+    border: 20px solid #25308F;
+}
+
+.homepage-content ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.recipe-content {
+    border: 20px solid #25308F;
+    padding: 40px
+}
